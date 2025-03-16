@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+
+}
+
+.page {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 16px;
+    box-shadow: 0 0 10px #ccc;
+}
+img 
+    {
+        max-width: 100%;
+        height: auto;
+        border-radius: 16px;
+    }
+
+.p pred {
+    color: red;
+}
