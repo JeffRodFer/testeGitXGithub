@@ -1,0 +1,30 @@
+body {
+    /* background-color: white; */
+    background-image: url(assets/main.jpg);
+    background-size: cover;
+
+}
+
+.page {
+    width: 82%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 16px;
+    box-shadow: 0 0 10px #ccc;
+}
+img 
+    {
+        max-width: 100%;
+        height: auto;
+        border-radius: 16px;
+    }
+
+ .page p pre{
+    color: red;
+}
+h1, h2, h3 {
+    color: black;
+    text-decoration: bold;
+}
