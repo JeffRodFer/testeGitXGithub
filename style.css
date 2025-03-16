@@ -1,8 +1,19 @@
+:root {
+    font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 body {
     /* background-color: white; */
     background-image: url(assets/main.jpg);
     background-size: cover;
 
+}
+
+main {
+    padding: 10px;
 }
 
 .page {
@@ -21,8 +32,7 @@ img
         border-radius: 16px;
     }
 
-.p pred 
-{
+ h4{
     color: red;
 }
 h1, h2, h3 {
